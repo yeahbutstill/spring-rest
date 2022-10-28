@@ -9,5 +9,8 @@
         <module name="spring-rest" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="spring-rest-demo" target="17" />
+    </bytecodeTargetLevel>
   </component>
 </project>
